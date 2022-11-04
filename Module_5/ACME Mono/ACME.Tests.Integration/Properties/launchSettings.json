@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ACME.Tests.Integration": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CON_APPCONFIG": "Endpoint=https://ps-appconfigure.azconfig.io;Id=Tkq/-l9-s0:FFl00r6b8fiI3ta5qFqi;Secret=nzvCWTSZLkNL84TtjHcf0GFLKnFRtzLEsHDCgWIy5q8="
+      }
+    }
+  }
+}

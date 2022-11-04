@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ACME.DataLayer.Documents\ACME.DataLayer.Documents.csproj" />
+    <ProjectReference Include="..\ACME.DataLayer.Entities\ACME.DataLayer.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
